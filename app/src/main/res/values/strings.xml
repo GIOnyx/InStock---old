@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReadySetCook</string>
+    <string name="view_underlined_text"><u>View Selected Ingredients</u></string>
+    <string name="hide_underlined_text"><u>Hide Available Ingredients</u></string>
+</resources>
